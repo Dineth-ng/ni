@@ -1,0 +1,6 @@
+discord.py[voice]
+google-generativeai
+yt-dlp
+python-dotenv
+spotipy
+PyNaCl
